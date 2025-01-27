@@ -1,1 +1,3 @@
-Hello Word
+
+print("what ya doing")
+print ("Hello World")
